@@ -1,5 +1,4 @@
-<h1 align="center">Love yaaa! Data BackEnd Developer 문영빈</h1>
-<h3 align="center">데이터? 최고야 짜릿해</h3>
+<h1 align="center">Love yaaa! Data Engineer 문영빈</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonyb82500&label=Profile%20views&color=0e75b6&style=flat" alt="moonyb82500" /> </p>
 
